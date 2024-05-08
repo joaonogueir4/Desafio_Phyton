@@ -7,6 +7,15 @@ Original file is located at
     https://colab.research.google.com/drive/13jemVb2xzlzR28Wl1PJ0CIZk6_FACmoB
 """
 
+# Matheus Rodrigues
+# João Vitor
+# Marcello Henrique
+# Rayssa Santos
+# Geovanna Pereira
+# Christian Yuri
+
+
+
 print("Advinhe o numero do Nivus, 10 tentativas")
 import random
 numero_secreto = random.randint(1,100)
